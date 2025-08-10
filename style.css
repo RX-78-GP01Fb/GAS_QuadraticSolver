@@ -10,7 +10,7 @@
     text-align: center;
   }
 
-  input[type="submit"] {
+  input[type="submit"], input[type="number"] {
     border: 0;
     background: whitesmoke;
     display: block;
